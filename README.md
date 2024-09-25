@@ -31,7 +31,7 @@ Akhil AD
 <h3>NOTE:</h3>
 There are 2 python files:
 <br>Part1: Exploratory Data Analysis, Data Wrangling, Test Train Split, Traditional Machine Learning Model Training, Performance of Traditional ML Models
-<br>Part2: LSTM and its performance on new data
+<br>Part2: LSTM and its performance on new data - Author Vivek Babu
 <br>
 <br>
 This project is based on
